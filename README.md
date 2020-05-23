@@ -1,4 +1,4 @@
-<h1 align="center">GoStack - Conceitos NodeJS</h1>
+<h1 align="center">Bootcamp GoStack - Conceitos NodeJS</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alencarfff/gostack-conceitos-nodejs?color=%2304D361">
