@@ -16,9 +16,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#art-protótipo">Protótipo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-implementação">Implementação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#clap-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -29,18 +27,8 @@ Nesse desafio, tive que criar uma aplicação para treinar o que aprendi no Nív
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 ## :computer: Implementação
-<!-- O projeto foi implementado utilizando HTML5, CSS3, Javascript e a Grid do Bootstrap 4 para auxiliar na responsividade.
 
-Além disso, o deploy foi feito no Github Pages. -->
-
-## :clap: Resultado
-<!-- 
-Et voilà. Este foi o resultado do projeto:
-
-<img src="https://raw.githubusercontent.com/alencarfff/socialmedia-lp/master/assets/img/socialmedia_screenshot.png" alt="Screenshot do resultado final do projeto SocialMedia"  />
-
-Você pode testar a aplicação aqui no link abaixo: <br/>
-**[Link para a aplicação](https://alencarfff.github.io/socialmedia-lp/)** -->
+O projeto foi implementado utilizando Node.js e testado com Jest.
 
 ## :memo: Licença
 
