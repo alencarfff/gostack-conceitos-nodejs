@@ -24,7 +24,7 @@
 
 Nesse desafio, tive que criar uma aplicação para treinar o que aprendi no Nível 01 de Node.js!
 
-Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+Essa é uma aplicação para armazenar repositórios de um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 ## :computer: Implementação
 
